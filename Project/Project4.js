@@ -1,5 +1,5 @@
 /*
-Project 101
+Project 1
 
 Program button notes:
 	Each button performs a different movement.  Hit reset after each button finalizes or play them in order from 1 to 4 when they finish their movements for a small story.
